@@ -2,7 +2,7 @@
 
 ### Who am I?
 I'm interested in Natural Language Processing(NLP) and Reinforcement Learning(RL)
-especially, interested in Continual Learning and cross lingual Language Model(Multilingual).
+especially, interested in **Continual Learning** and **cross lingual Language Model(Multilingual)**.
 
 if you want to contact me, see below and click button
 
