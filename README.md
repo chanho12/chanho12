@@ -4,9 +4,14 @@
 I'm interested in Natural Language Processing(NLP) and Reinforcement Learning(RL)
 especially, interested in **Continual Learning** and **cross lingual Language Model(Multilingual)**.
 
-if you want to contact me, see below and click button
+# Contact Me
 
-<div align=center>
+- Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)
+- Velog: [![Velog](Link to Velog logo)](Your Velog URL)
+- Notion: [![Notion](Link to Notion logo)](Your Notion URL)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanho12&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
