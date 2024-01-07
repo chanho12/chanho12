@@ -1,15 +1,26 @@
 # Chanho Park(박찬호)
 
+### Who am I?
+I'm interested in Natural Language Processing(NLP) and Reinforcement Learning(RL)
+especially, interested in Continual Learning and cross lingual Language Model(Multilingual).
+
+if you want to contact me, see below and click button
+- Email: [your.email@example.com](cksgh0984@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/chanho12/)
+
+
+
+
+
+
+
+
+
 ### Education
 - Sogang University [@homepage](https://www.sogang.ac.kr/index.do)(March 2020 ~ present)
 - Bachelor of Chinese Culture [@homepage](https://www.sogang.ac.kr/index.do)
 - Bachelor of Mathematics [@homepage](https://math.sogang.ac.kr/math/index_new.html)
 - Bachelor of Big data science [@homepage](https://bds.sogang.ac.kr/bds/index_new.html)
-I'm **Chanho Park**, I am interested in 
-I am particularly interested in [Specific Interests or Projects], and I enjoy using technology to solve real-world problems.  
-If you want to contact me or learn more about my work, see below for links to my professional networks and contact information.
-
-# STACKS
 
 Languages and Tools:  
 - ![Python](Link to Python icon) Python
