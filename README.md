@@ -1,7 +1,7 @@
 # Chanho Park(박찬호)
 
 ### Education
-- [Sogang University](https://www.sogang.ac.kr/index.do)(March 2020 ~ present)
+- Sogang University [@Sogang University](https://www.sogang.ac.kr/index.do)(March 2020 ~ present)
 - Bachelor of Chinese Culture 
 - Bachelor of Mathematics 
 - Bachelor of Big data science
