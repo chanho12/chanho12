@@ -3,15 +3,15 @@
 
   # WHO AM I?
 
-   I'm interested in Natural Language Processing(NLP) and Reinforcement Learning(RL) especially, interested in Continual Learning and cross lingual Language Model(Multilingual).
+   I'm interested in Natural Language Processing(NLP) and Reinforcement Learning(RL) especially, interested in **Continual Learning** and **cross lingual Language Model(Multilingual)**.
 
   
   if you want to contact me, see below and click button <br><br>
    <a href="mailto:cksgh0984@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
    </a>
-   <a href="https://gbdai.tistory.com" target="_blank">
-   <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
+   <a href="https://velog.io/@cksgh0984/posts" target="_blank">
+   <img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white"/>
    </a>
    <a href="https://www.linkedin.com/in/chanho12/" target="_blank">
    <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
