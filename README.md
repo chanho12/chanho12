@@ -39,7 +39,7 @@
   <img alt="Plotly" src ="https://img.shields.io/badge/Plotly-3F4F75.svg?&style=flat-square&logo=Plotly&logoColor=white"/>
   <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
   <br>
-
+</div>
 
 ### Education
 - Sogang University [@homepage](https://www.sogang.ac.kr/index.do)(March 2020 ~ present)
