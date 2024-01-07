@@ -1,10 +1,10 @@
 # Chanho Park(박찬호)
 
 ### Education
-- Sogang University [@Sogang University](https://www.sogang.ac.kr/index.do)(March 2020 ~ present)
-- Bachelor of Chinese Culture 
-- Bachelor of Mathematics 
-- Bachelor of Big data science
+- Sogang University [@homepage](https://www.sogang.ac.kr/index.do)(March 2020 ~ present)
+- Bachelor of Chinese Culture [@homepage](https://www.sogang.ac.kr/index.do)
+- Bachelor of Mathematics [@homepage](https://math.sogang.ac.kr/math/index_new.html)
+- Bachelor of Big data science [@homepage](https://bds.sogang.ac.kr/bds/index_new.html)
 I'm **Chanho Park**, I am interested in 
 I am particularly interested in [Specific Interests or Projects], and I enjoy using technology to solve real-world problems.  
 If you want to contact me or learn more about my work, see below for links to my professional networks and contact information.
