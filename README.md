@@ -1,8 +1,6 @@
-### Hi there 👋
+# Chanho Park(박찬호)
 
-# WHO AM I?
-
-I'm **Chanho Park**, passionate about [Your Main Interests or Field, e.g., Machine Learning, Software Development, etc.]   
+I'm **Chanho Park**, I am interested in 
 I am particularly interested in [Specific Interests or Projects], and I enjoy using technology to solve real-world problems.  
 If you want to contact me or learn more about my work, see below for links to my professional networks and contact information.
 
