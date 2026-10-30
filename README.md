@@ -7,11 +7,7 @@
 M.S. Student · 3rd Semester · Korea University<br>
 [Language & Intelligence Lab](https://lilab.korea.ac.kr/home) · Advisor: [Buru Chang](https://sites.google.com/view/buru-chang)
 
-[![Website](https://img.shields.io/badge/Website-243B53?style=flat-square)](https://chanho12.github.io/)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-243B53?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=R4lSj64AAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-243B53?style=flat-square&logo=gmail&logoColor=white)](mailto:cksgh0984@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-243B53?style=flat-square)](https://www.linkedin.com/in/chanho12/)
-[![Blog](https://img.shields.io/badge/Blog-243B53?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@cksgh0984/posts)
+[Website](https://chanho12.github.io/) &nbsp; · &nbsp; [Scholar](https://scholar.google.com/citations?user=R4lSj64AAAAJ&hl=en) &nbsp; · &nbsp; [Email](mailto:cksgh0984@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/chanho12/) &nbsp; · &nbsp; [Blog](https://velog.io/@cksgh0984/posts)
 
 I build conversational agents that **remember users**<br>
 and **adapt to their changing preferences** over time.
