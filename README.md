@@ -1,37 +1,55 @@
 # Chanho Park (박찬호)
 
-<div align="center">
+**Third-semester M.S. student in Computer Science at Korea University**<br>
+[Language & Intelligence Lab (LiLab)](https://lilab.korea.ac.kr/home) · Advisor: [Prof. Buru Chang](https://sites.google.com/view/buru-chang)
 
-# 👋 WHO AM I?
+[Website](https://chanho12.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=R4lSj64AAAAJ&hl=en) · [Email](mailto:cksgh0984@gmail.com) · [LinkedIn](https://www.linkedin.com/in/chanho12/) · [Blog](https://velog.io/@cksgh0984/posts)
 
-I'm deeply interested in **Natural Language Processing (NLP)**,  
-especially in building **long-term dialogue systems** that enable chatbots to sustain coherent, memory-aware conversations over extended interactions.
+## About Me
 
-My research focuses on:
-- 🧠 **Long-Term Dialogue Systems** – enabling chatbots to remember, adapt, and evolve across sessions  
-- 👤 **Persona-Aware Chatbots** – designing agents that behave more human-like through structured persona modeling  
-- 🖼️ **Multimodal Dialogue Systems** – integrating text, vision, and context to make richer conversational agents  
+I study **personalized conversational AI**: how agents can remember users, track changes in their preferences, and use those memories across long-term interactions. My work connects long-term dialogue, conversational recommendation, and agent-based memory management.
 
-If you want to contact me, click below 👇<br><br>
+## Current Research
 
-<a href="mailto:cksgh0984@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://velog.io/@cksgh0984/posts" target="_blank">
-<img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/chanho12/" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+- **Preference Tracking:** Developing structured representations and update mechanisms to track evolving user preferences from dialogue and behavioral histories across sessions.
+- **Agent-Based Long-Term Memory Management:** Designing agents that decide what to store, retrieve, revise, and forget so that user memories stay relevant as new information arrives.
+- **Memory-Aware Dialogue and Recommendation:** Using personas, shared experiences, and evolving preferences to support coherent conversations and personalized recommendations over time.
 
-<br><br>
-</div>
+## Selected Publications
+
+### TRACE · EMNLP 2026
+
+**[TRACE: A Long-Term Conversational Recommendation Dataset with Evolving User Personas](https://aclanthology.org/2026.emnlp-main.1804/)**<br>
+Jihyung Ahn\*, Seonah Han\*, **Chanho Park\***, Hyeongwoo Im, Daeyeong Kim, Subin Kim, Buru Chang
+
+A long-term conversational recommendation dataset connecting behavioral histories with dialogue. The accompanying **EvoCRS** framework updates behavioral and dialogue personas to model accumulated preferences and how they evolve across sessions.
+
+[Paper](https://aclanthology.org/2026.emnlp-main.1804/)
+
+### SHARE · ACL 2025
+
+**[SHARE: Shared Memory-Aware Open-Domain Long-Term Dialogue Dataset Constructed from Movie Script](https://aclanthology.org/2025.acl-long.704/)**<br>
+Eunwon Kim\*, **Chanho Park\***, Buru Chang
+
+A movie-script-based dataset for long-term dialogue grounded in shared memories between speakers. The accompanying **EPISODE** framework uses shared experiences to support engaging conversations across sessions.
+
+[Paper](https://aclanthology.org/2025.acl-long.704/) · [Project](https://e1kim.github.io/SHARE-Shared-Memory/) · [Code & Data](https://github.com/e1kim/SHARE)
+
+\* Equal contribution.
+
+## Education
+
+- **Korea University — M.S. in Computer Science**<br>
+  Sep 2025 – Present · **Third semester**<br>
+  Language & Intelligence Lab · Advisor: Prof. Buru Chang
+- **Sogang University — Triple Major**<br>
+  B.A. in Chinese Culture · B.S. in Mathematics · B.Eng. in Big Data Science
 
 ---
 
 <div align="center">
 
-# 📚 TECH STACKS
+## Tech Stack
 
 <br>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
@@ -48,17 +66,6 @@ If you want to contact me, click below 👇<br><br>
 <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=flat-square&logo=Selenium&logoColor=white"/>
 <br>
 </div>
-
----
-
-### 🎓 Education
-
-- **Korea University – M.S. in Computer Science**  
-  *(2025.09 ~ present)*  
-- Sogang University  
-  - B.A. in Chinese Culture  
-  - B.A. in Mathematics  
-  - B.A. in Big Data Science  
 
 ---
 
